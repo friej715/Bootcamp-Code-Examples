@@ -1,3 +1,5 @@
+/* By Jane Friedhoff, D+T2013.*/
+
 /* Basics - Datatypes and Concatonation
   A variable is basically a bucket that can hold a value.
   

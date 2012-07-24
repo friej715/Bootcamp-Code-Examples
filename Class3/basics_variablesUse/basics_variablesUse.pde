@@ -1,3 +1,5 @@
+/* By Jane Friedhoff, D+T2013.*/
+
 /* Basics - Variables and their Use
   The best code is simple code. Imagine you wanted to make
   10 circles, each with a width of 15.

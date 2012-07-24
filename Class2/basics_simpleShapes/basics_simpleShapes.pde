@@ -1,3 +1,5 @@
+/* By Jane Friedhoff, D+T2013.*/
+
 /* Basics - Simple Shapes and Colors
  Processing comes with built-in actions it can do
  (called *functions*). These actions require only
