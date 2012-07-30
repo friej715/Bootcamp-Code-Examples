@@ -7,6 +7,7 @@ Each class file will contain:
 
 * Slides that you can reference after class, in case you get lost/confused
 * Thoroughly commented sample code for each class day, so you can see the concepts in action
+* The class syllabus, which details both topics and specific code (with links to the official reference)
 
 Class 1 doesn't exist here, since that day we'll be hearing from some awesome pro-coders/interactive designers and getting to know each other.
 
