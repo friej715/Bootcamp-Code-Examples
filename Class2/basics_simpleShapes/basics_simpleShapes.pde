@@ -23,6 +23,7 @@
  */
  
 background(255, 255, 255); // White.
+size(150, 200); // Setting a new width (150) and height(200).
 
 // Ellipses are drawn from their centers.
 // This can be changed (see reference for ellipseMode();)
