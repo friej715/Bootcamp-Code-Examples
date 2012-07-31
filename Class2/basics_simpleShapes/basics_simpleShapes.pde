@@ -25,11 +25,12 @@
 background(255, 255, 255); // White.
 
 // Ellipses are drawn from their centers.
+// This can be changed (see reference for ellipseMode();)
 fill(50, 0, 200);
 ellipse(10, 40, 15, 30);
 
 // Rectangles are drawn from their 
-// upper-left-hand corners (this can be changed).
+// upper-left-hand corners (see reference for rectMode();)
 fill(200, 0, 250);
 rect(30, 60, 30, 10);
 
@@ -40,6 +41,8 @@ ellipse(70, 80, 10, 20);
 // Lines are defined by the point at the 'start',
 // and the point at the 'end' (order doesn't matter).
 stroke(0, 100, 250); // Stroke is basically fill for a line.
+// You can alter the thickness of the stroke with the strokeWeight();
+// command (put the px size inside the parens)
 line(0, 100, 100, 0);
 
 /* Note that the line is drawn on top of the ellipse
